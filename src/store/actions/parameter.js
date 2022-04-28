@@ -1,0 +1,2 @@
+
+export const LIST_PARAMETER = 'LIST_PARAMETER'

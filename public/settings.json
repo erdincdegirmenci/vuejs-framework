@@ -1,0 +1,7 @@
+{
+    "localUrl": "http://localhost:5000/api/",
+    "publishUrl": "http://publish.url.com:9001/api/",
+    "capcthaUrl": "https://www.google.com/recaptcha/api.js?onload=vueRecaptchaApiLoaded&render=explicit",
+    "captchaSiteKey": "6LdyH70aAAAAAORR33cNOnFWXjYsbx8G0lQ4WHXq",
+    "isCapcthaVisible": true
+}

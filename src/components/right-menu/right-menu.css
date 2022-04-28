@@ -1,0 +1,5 @@
+#right-menu{padding:16px 0 0 24px;}
+#right-menu nav button{width: 100%; height: 109px;display: flex;flex-direction: column;justify-content: center;align-items: center;border-bottom: 1px solid #979797;color: #3E4A5A;}
+#right-menu nav button i{font-size: 23px;display: inline-block;margin-bottom: 16px;color: #000;}
+#right-menu nav + div{width: 113px;height: 90px; }
+#right-menu nav + div img{width:100%;height:auto}
